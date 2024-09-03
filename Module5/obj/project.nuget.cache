@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gqHWKjvTejI=",
+  "success": true,
+  "projectFilePath": "/home/user/vscode/Module5/Module5.csproj",
+  "expectedPackageFiles": [
+    "/home/user/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
